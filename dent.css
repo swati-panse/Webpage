@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color:white;
+    color: black;
+    height:50px
+}
+
+nav{
+    float: right;
+    text-transform: capitalize;
+}
+
+ul li{
+
+    list-style: none;
+    display: inline-flex;
+    margin-top:0px;
+    margin-right: 30px;
+    padding: 10px;
+}
+
+ul li:hover{
+    background-color: rgb(188, 233, 143);
+}
+
+ul li:first-child{
+    background-color:rgb(160, 240, 81) ;
+    margin-top: 2PX;
+}
+
+.main h1{
+     margin-left: 50px;
+
+}
+ 
+    .bg{
+        background-image: url(https://www.strategicdentalcare.com/wp-content/uploads/2020/04/2.6.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+        }
+       
+
+    .bg h2{
+        color:white;
+        font-size: 50px;
+        padding-top: 200px;
+        margin-left: 50px;
+        text-transform: uppercase;
+    }
+    .bg p{
+        color: white;
+        font-size: 20px;
+        padding: 5px;
+        margin-left: 50px;
+        
+    }
+    button{
+        padding: 10px;
+        margin-left: 50px;
+        margin-top: 30px;
+        text-transform: capitalize;
+        color:black;
+        background-color: ;
+        border: rgb(160, 240, 81);
+
+    }
+    button:hover{
+        background-color: rgb(160, 240, 81);
+    }
+    .bp{
+        background-color:rgb(160, 240, 81);
+        color: white;
+    }
+    .bp h4{
+        height: 50px;
+        margin-left: 30px;
+        padding-top: 20px;
+        font-size: 30px;
+    }
+    .bp p{
+      font-size:17px;
+      margin-left: 30px;
+      padding-bottom:20px;
+    }
+     .bp button{
+        float: right;
+        margin-right: 20%;
+     }
+    
